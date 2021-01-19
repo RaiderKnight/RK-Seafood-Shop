@@ -1,7 +1,7 @@
 MODULE_UNIQUEID: rk_SeaFoodShop
-MODULE_NAME: Sea Food Shop Module
+MODULE_NAME: Seafood Shop Module
 MODULE_AUTHOR: Raddeck
-MODULE_LINK: https://github.com/RaiderKnight/
-MODULE_DESCRIPTION: Add options to buy seafoods !
+MODULE_LINK: https://github.com/RaiderKnight/RK-Seafood-Shop
+MODULE_DESCRIPTION: Add options to buy/eat seafoods !
 MODULE_REQUIREMENTS:
-MODULE_VERSION: 0.1
+MODULE_VERSION: 1.0
